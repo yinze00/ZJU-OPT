@@ -20,12 +20,12 @@
 [大英Ⅳ]:http://baidu.com
 
 [微积分Ⅱ]:http://baidu.com
-[C大程序]:http://baidu.com
-[工图]:http://baidu.com
+[C大程序]:https://github.com/yinze00/ZJU-OPT/tree/master/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80
+[工图]:https://github.com/yinze00/ZJU-OPT/tree/master/%E5%B7%A5%E7%A8%8B%E5%9B%BE%E5%AD%A6
 [光电导论]:http://baidu.com
 [文献写作]:http://baidu.com
 [电工训]:http://baidu.com
-[大物Ⅰ]:http://baidu.com
+[大物Ⅰ]:https://github.com/yinze00/ZJU-OPT/tree/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%88%E7%94%B2%EF%BC%89%E2%85%A0
 [常微分]:http://baidu.com
 
 [模电]:http://baidu.com
@@ -44,6 +44,7 @@
 [应光]:http://baidu.com
 [应光实验]:http://baidu.com
 [计网]:http://baidu.com
+[微机接口]:https://github.com/yinze00/ZJU-OPT/tree/master/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF/%E8%AF%95%E5%8D%B7%E6%A0%B7%E5%BC%A0
 ## 前言
 我们都是第一次上大学，我们都是第一次接触光电，我们都是第一次接触某一门课，但是我们希望第一次就能做的很好。<BR>
 
@@ -60,7 +61,7 @@
 * 相关软件
 
 ## 其他
-受[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)启发，我们殷切希望光电学子百尺竿头更进一步！
+受[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)启发，我们在[CC98 不败光电](https://www.cc98.org/board/214)资源楼同步更新。我们殷切希望光电学子百尺竿头更进一步！
 
 ## 欢迎贡献
 只要是您上过的课，觉得和光电有关的，都欢迎上传！
