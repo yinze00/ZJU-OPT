@@ -4,7 +4,7 @@
 | 大一秋冬 | 大一春夏 |  大二秋冬 | 大二春夏 |  大三秋冬 | 大三春夏 | 小学期 | 大四 |
 | :----:| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |[微积分Ⅰ]|  [微积分Ⅱ]|  [模电]   | [数电] | 单元格 | 单元格 | 十大有 |十大有 |十大有 |十大有 |
-|[线代]|      [C大程序]|  [大物实验]| [场波] |  
+|[线代]|      [C大程]|  [大物实验]| [场波] |  
 |[C小程]|     [工图]   |  [大物Ⅱ] |  [计网]|
 |[大英Ⅲ]|    [光电导论]|  [概统]|    [微机接口]
 |[大英Ⅳ]|    [文献写作]|  [复变函数]|[信号]
@@ -15,12 +15,12 @@
 
 [微积分Ⅰ]:http://baidu.com
 [线代]:http://baidu.com
-[C小程]:http://baidu.com
 [大英Ⅲ]:http://baidu.com
 [大英Ⅳ]:http://baidu.com
+[C小程]:https://github.com/yinze00/ZJU-OPT/tree/master/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80
 
 [微积分Ⅱ]:http://baidu.com
-[C大程序]:https://github.com/yinze00/ZJU-OPT/tree/master/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80
+[C大程]:http://baidu.com
 [工图]:https://github.com/yinze00/ZJU-OPT/tree/master/%E5%B7%A5%E7%A8%8B%E5%9B%BE%E5%AD%A6
 [光电导论]:http://baidu.com
 [文献写作]:http://baidu.com
