@@ -1,4 +1,9 @@
 # ZJU-OPT
+<div align=center>
+  <img src="http://opt.zju.edu.cn/template/images/logo.jpg"/> 
+
+</div>
+
 浙江大学光电信息科学与工程学院-光电信息科学与工程（OPT）课程共享计划
 
 | 大一秋冬 | 大一春夏 |  大二秋冬 | 大二春夏 |  大三秋冬 | 大三春夏 | 小学期 | 大四 |
@@ -71,3 +76,10 @@
 只要是您上过的课，觉得和光电有关的，都欢迎上传！
 提交方式：<BR>
   提交Pull Request,先fork本项目，在已有文件夹里Upload、或者创建新的文件夹，打开任意文件夹，点击绿色Download按钮旁的upload，把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车，上传你的文件。
+  
+## 感谢所有参与本项目的人
+<details>
+  <summary>查看所有贡献者</summary>
+  <pre> Yinze </pre>
+  </details>
+  
