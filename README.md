@@ -4,7 +4,7 @@
 
 </div>
 
-浙江大学光电信息科学与工程学院-光电信息科学与工程（OPT）课程共享计划
+**浙江大学光电信息科学与工程学院-光电信息科学与工程（OPT）课程共享计划**
 
 | 大一秋冬 | 大一春夏 |  大二秋冬 | 大二春夏 |  大三秋冬 | 大三春夏 | 小学期 | 大四 |
 | :----:| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
@@ -18,47 +18,47 @@
 |       |     [常微分]|    [模电实验]  
 |       |             |   [软基]|
 
-[微积分Ⅰ]:http://baidu.com
-[线代]:http://baidu.com
-[大英Ⅲ]:http://baidu.com
-[大英Ⅳ]:http://baidu.com
+[微积分Ⅰ]:https://github.com/yinze00/ZJU-OPTm
+[线代]:https://github.com/yinze00/ZJU-OPT
+[大英Ⅲ]:https://github.com/yinze00/ZJU-OPT
+[大英Ⅳ]:https://github.com/yinze00/ZJU-OPT
 [C小程]:https://github.com/yinze00/ZJU-OPT/tree/master/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80
 
-[微积分Ⅱ]:http://baidu.com
-[C大程]:http://baidu.com
+[微积分Ⅱ]:https://github.com/yinze00/ZJU-OPT
+[C大程]:https://github.com/yinze00/ZJU-OPT
 [工图]:https://github.com/yinze00/ZJU-OPT/tree/master/%E5%B7%A5%E7%A8%8B%E5%9B%BE%E5%AD%A6
-[光电导论]:http://baidu.com
-[文献写作]:http://baidu.com
-[电工训]:http://baidu.com
+[光电导论]:https://github.com/yinze00/ZJU-OPT
+[文献写作]:https://github.com/yinze00/ZJU-OPT
+[电工训]:https://github.com/yinze00/ZJU-OPT
 [大物Ⅰ]:https://github.com/yinze00/ZJU-OPT/tree/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%88%E7%94%B2%EF%BC%89%E2%85%A0
-[常微分]:http://baidu.com
+[常微分]:https://github.com/yinze00/ZJU-OPT
 
-[模电]:http://baidu.com
-[大物实验]:http://baidu.com
-[大物Ⅱ]:http://baidu.com
-[概统]:http://baidu.com
-[复变函数]:http://baidu.com
-[偏微分]:http://baidu.com
-[工训]:http://baidu.com
-[模电实验]:http://baidu.com
-[软基]:http://baidu.com
+[模电]:https://github.com/yinze00/ZJU-OPT
+[大物实验]:https://github.com/yinze00/ZJU-OPT
+[大物Ⅱ]:https://github.com/yinze00/ZJU-OPT
+[概统]:https://github.com/yinze00/ZJU-OPT
+[复变函数]:https://github.com/yinze00/ZJU-OPT
+[偏微分]:https://github.com/yinze00/ZJU-OPT
+[工训]:https://github.com/yinze00/ZJU-OPT
+[模电实验]:https://github.com/yinze00/ZJU-OPT
+[软基]:https://github.com/yinze00/ZJU-OPT
 
-[数电]:http://baidu.com
-[场波]:http://baidu.com
-[信号]:http://baidu.com
-[应光]:http://baidu.com
-[应光实验]:http://baidu.com
-[计网]:http://baidu.com
+[数电]:https://github.com/yinze00/ZJU-OPT
+[场波]:https://github.com/yinze00/ZJU-OPT
+[信号]:https://github.com/yinze00/ZJU-OPT
+[应光]:https://github.com/yinze00/ZJU-OPT
+[应光实验]:https://github.com/yinze00/ZJU-OPT
+[计网]:https://github.com/yinze00/ZJU-OPT
 [微机接口]:https://github.com/yinze00/ZJU-OPT/tree/master/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF/%E8%AF%95%E5%8D%B7%E6%A0%B7%E5%BC%A0
 
-[光机系统设计]:https://github.com/yinze00
-[光学系统设计]:httpS://github.com/yinze00
-[电子系统设计]:https://github.com/yinze00
+[光机系统设计]:https://github.com/yinze00/ZJU-OPT
+[光学系统设计]:https://github.com/yinze00/ZJU-OPT
+[电子系统设计]:https://github.com/yinze00/ZJU-OPT
 ## 前言
 我们都是第一次上大学，我们都是第一次接触光电，我们都是第一次接触某一门课，但是我们希望第一次就能做的很好。<BR>
 
 > 来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。<BR><BR>
-有些是需要在网上搜索的电子书，每次见到一门新课程，Google 一下教材名称，有的可以立即找到，有的却是要花费许多眼力；<BR><BR>有些是历年试卷或者 A4 纸，前人精心收集制作，抱着能对他人有用的想法公开，却需要在各个群或者 CC98 中摸索以至于从学长手中代代相传；<BR><BR>有些是上完一门课才恍然领悟的技巧，原来这门课重点如此，当初本可以更轻松地完成得更好……<BR><BR>我也曾很努力地收集各种课程资料，但到最后，某些重要信息的得到却往往依然是纯属偶然。<BR><BR>这种状态时常令我感到后怕与不安。我也曾在课程结束后终于有了些许方法与总结，但这些想法无处诉说，最终只能把花费时间与精力才换来的经验耗散在了漫漫的遗忘之中。<BR><BR>我为这一年一年，这么多人孤军奋战的重复劳动感到不平。<BR><BR>我希望能够将这些隐晦的、不确定的、口口相传的资料和经验，变为公开的、易于获取的和大家能够共同完善、积累的共享资料。<BR><BR>我希望只要是前人走过的弯路，后人就不必再走。这是我的信念，也是我建立这个项目的原因。
+有些是需要在网上搜索的电子书，每次见到一门新课程，Google 一下教材名称，有的可以立即找到，有的却是要花费许多眼力；<BR><BR>有些是历年试卷或者 A4 纸，前人精心收集制作，抱着能对他人有用的想法公开，却需要在各个群或者 CC98 中摸索以至于从学长手中代代相传；<BR><BR>有些是上完一门课才恍然领悟的技巧，原来这门课重点如此，当初本可以更轻松地完成得更好……<BR><BR>我也曾很努力地收集各种课程资料，但到最后，某些重要信息的得到却往往依然是纯属偶然。<BR><BR>这种状态时常令我感到后怕与不安。我也曾在课程结束后终于有了些许方法与总结，但这些想法无处诉说，最终只能把花费时间与精力才换来的经验耗散在了漫漫的遗忘之中。<BR><BR>我为这一年一年，这么多人孤军奋战的重复劳动感到不平。<BR><BR>我希望能够将这些隐晦的、不确定的、口口相传的资料和经验，变为公开的、易于获取的和大家能够共同完善、积累的共享资料。<BR><BR> **我希望只要是前人走过的弯路，后人就不必再走。** 这是我的信念，也是我建立这个项目的原因。
 
 ## 内容
 本项目收录：
