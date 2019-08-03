@@ -18,7 +18,7 @@
 |       |     [常微分]|    [模电实验]  
 |       |             |   [软基]|
 
-[微积分Ⅰ]:https://github.com/yinze00/ZJU-OPTm
+[微积分Ⅰ]:https://github.com/yinze00/ZJU-OPT
 [线代]:https://github.com/yinze00/ZJU-OPT
 [大英Ⅲ]:https://github.com/yinze00/ZJU-OPT
 [大英Ⅳ]:https://github.com/yinze00/ZJU-OPT
