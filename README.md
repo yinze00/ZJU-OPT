@@ -80,6 +80,6 @@
 ## 感谢所有参与本项目的人
 <details>
   <summary>查看所有贡献者</summary>
-  <pre> Yinze </pre>
+  <pre> Yinze 荷戟独彷徨</pre>
   </details>
   
