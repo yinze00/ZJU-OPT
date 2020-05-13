@@ -1,6 +1,6 @@
 # ZJU-OPT
 <div align=center>
-  <img src="http://opt.zju.edu.cn/template/images/logo.jpg"/> 
+  <img src="http://opt.zju.edu.cn/_upload/site/00/e0/224/logo.jpg"/> 
 
 </div>
 
