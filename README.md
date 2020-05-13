@@ -1,8 +1,5 @@
 # ZJU-OPT
-<div align=center>
-  <img src="http://opt.zju.edu.cn/_upload/site/00/e0/224/logo.jpg"/> 
-
-</div>
+![](http://opt.zju.edu.cn/_upload/site/00/e0/224/logo.jpg)
 
 **浙江大学光电信息科学与工程学院-光电信息科学与工程（OPT）课程共享计划**
 
